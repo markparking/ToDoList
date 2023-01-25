@@ -1,31 +1,12 @@
 {
   "Version": 1,
-  "Hash": "yn+igAct+QjKQ8jVXi3nkYfpRHu6r3K8RmXO1LmbLYM=",
+  "Hash": "WGIu5MTE5OU0JtTe7k36RRMAzID0IZZTQuhS5YbjqXU=",
   "Source": "ToDoList",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [
-    {
-      "Identity": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\RazorLibrary.csproj",
-      "Version": 2,
-      "Source": "RazorLibrary",
-      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier",
-      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier"
-    }
-  ],
+  "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
-    {
-      "Name": "RazorLibrary\\wwwroot",
-      "Source": "RazorLibrary",
-      "ContentRoot": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\wwwroot\\",
-      "BasePath": "_content/RazorLibrary",
-      "Pattern": "**"
-    },
     {
       "Name": "ToDoList\\wwwroot",
       "Source": "ToDoList",
@@ -35,23 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorLibrary.bundle.scp.css",
-      "SourceId": "RazorLibrary",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/RazorLibrary",
-      "RelativePath": "RazorLibrary.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorLibrary.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\Mark-PC\\source\\repos\\ToDoList\\obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ToDoList.styles.css",
       "SourceId": "ToDoList",

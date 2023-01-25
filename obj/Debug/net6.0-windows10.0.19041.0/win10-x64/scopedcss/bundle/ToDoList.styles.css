@@ -1,5 +1,10 @@
-@import '_content/RazorLibrary/RazorLibrary.bundle.scp.css';
-
+/* /RazorLibrary/Component1.razor.rz.scp.css */
+.my-component[b-z6qro230uy] {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-y8ttcauk1b] {
     position: relative;

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "ve17jrqIXW0DTJ8qeeKTwf9YratuUFXNU/ZidzxhGUY=",
+  "Source": "RazorLibrary",
+  "BasePath": "_content/RazorLibrary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorLibrary\\wwwroot",
+      "Source": "RazorLibrary",
+      "ContentRoot": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\wwwroot\\",
+      "BasePath": "_content/RazorLibrary",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RazorLibrary.styles.css",
+      "SourceId": "RazorLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/RazorLibrary",
+      "RelativePath": "RazorLibrary.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RazorLibrary.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorLibrary.bundle.scp.css",
+      "SourceId": "RazorLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RazorLibrary",
+      "RelativePath": "RazorLibrary.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Mark-PC\\source\\repos\\RazorLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorLibrary.bundle.scp.css"
+    }
+  ]
+}
